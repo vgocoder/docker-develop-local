@@ -1,0 +1,3 @@
+clickhouse/ch_data/*
+clickhouse/ch_logs/*
+mysql/data/*
